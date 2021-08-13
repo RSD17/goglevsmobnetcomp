@@ -1,0 +1,53 @@
+.copy_right_footer {
+  position: fixed;
+  color: #09223b;
+  bottom: 0;
+  width: 100%;
+  background-color: #93e0eb;
+  line-height: 3;
+  text-align: center;
+
+}
+ol h5
+{
+ background: rgba(211, 12, 178, 0.959);
+   padding: 13px;
+   border-radius: 20px;
+}
+span
+{
+ color: orange;
+ font-size: 16px;
+}	
+li img
+{
+ border-radius: 20px;
+}
+.comp
+{
+ background: #b95ed4;
+ padding: 30px;
+ border-radius: 20px;
+ margin-top: 50px;
+ box-shadow: 5px 5px 18px grey;
+}
+b
+{
+ color: rgb(16, 29, 85);
+}
+
+.comp2
+{
+ text-align: center;
+ color: white;
+}
+.result
+{
+ box-shadow: 5px 5px 18px grey;
+ letter-spacing: 2px;
+ background: #df1e51;
+ border-radius: 20px;
+ margin-top:30px;
+ padding: 20px;
+ border:2px solid grey
+}
